@@ -2,7 +2,7 @@
   "author": "Micha",
   "name": "Flashcard from headline to body",
   "description": "Moves Flashcard from headline to body",
-  "enableOnMobile": false,
+  "enableOnMobile": true,
   "id": "Micha-adsblkk",
   "manifestVersion": 1,
   "repoUrl": "https://github.com/micharied/flashcard-from-headline-to-body",
